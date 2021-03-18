@@ -39,7 +39,7 @@ O template está disponível na seguinte URL:
 
 Agora navegue até a pasta criada, abra no Visual Studio Code e por último abra o arquivo `index.js`. Lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências e você terá o seguinte código:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da547593-34b3-459a-b15b-d596e5086c37/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da547593-34b3-459a-b15b-d596e5086c37/Untitled.png)
+![https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fda547593-34b3-459a-b15b-d596e5086c37%2FUntitled.png?table=block&id=bb0227d2-d72a-4108-92c3-c78a47fe70c9&width=1820&userId=b6a9ebbf-49e3-4929-a2c4-6d5214f8d6db&cache=v2](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fda547593-34b3-459a-b15b-d596e5086c37%2FUntitled.png?table=block&id=bb0227d2-d72a-4108-92c3-c78a47fe70c9&width=1820&userId=b6a9ebbf-49e3-4929-a2c4-6d5214f8d6db&cache=v2)
 
 ## Rotas da aplicação
 
